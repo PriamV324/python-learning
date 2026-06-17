@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "eamodio.gitlens",
+        "ms-azuretools.vscode-docker",
+        "GitHub.vscode-pull-request-github"
+    ]
+}
